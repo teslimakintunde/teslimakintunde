@@ -103,7 +103,7 @@
 
 ## 📊 My GitHub Contributions
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; gap: 15px;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; gap: 15px; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=teslimakintunde&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=teslimakintunde&theme=radical" alt="GitHub Streak"/>
 </div>

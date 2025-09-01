@@ -100,7 +100,7 @@
 
 ---
 
-## 📊 My GitHub Contributions
+
 ## 📊 My GitHub Contributions
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; gap: 15px;">

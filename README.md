@@ -73,37 +73,7 @@
 
 ---
 
-## 📈 Popular Repositories
-
-<table style="border-collapse: separate; border-spacing: 15px;">
-  <tr>
-    <td style="border: 2px solid #333; padding: 15px; width: 50%;">
-      <h3 align="left"><a href="https://github.com/teslimakintunde/task-frontend">Task-Management-App</a></h3>
-      <p align="left">This Task Management App is a responsive web application built with React (Vite) for the frontend and Node.js (Express) for the backend. Unlike traditional Redux-based solutions, it leverages React Context API for lightweight global state management, making it ideal for small to medium-sized teams. The app helps users organize, track, and collaborate on tasks efficiently with a clean and intuitive interface.</p>
-    </td>
-    <td style="border: 2px solid #333; padding: 15px; width: 50%;">
-      <h3 align="left"><a href="https://github.com/teslimakintunde/Blog-App">Blog App</a></h3>
-      <p align="left">I developed a full-stack blog app using Next.js for both frontend and backend, Tailwind CSS for responsive styling, and TypeScript for type safety. Prisma was used as the ORM with MongoDB as the database to manage posts, users, and comments. Auth.js (NextAuth) handled user authentication, supporting email and social logins. The app features dynamic routing, server-side rendering (SSR), and a seamless user experience.</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 2px solid #333; padding: 15px; width: 50%;">
-      <h3 align="left"><a href="https://github.com/teslimakintunde/fullstack-ride-app">Car Rental App</a></h3>
-      <p align="left">I developed a full-stack car rental app using Next.js for the frontend and backend, Tailwind CSS for responsive styling, and TypeScript for type safety. Prisma served as the ORM with MongoDB as the database to manage car listings, bookings, and user data. Auth.js (NextAuth) handled user authentication, enabling secure login and registration. The app features dynamic routing, search filters, booking management, and a seamless user experience.</p>
-    </td>
-    <td style="border: 2px solid #333; padding: 15px; width: 50%;">
-      <h3 align="left"><a href="https://github.com/teslimakintunde/Fashion-store-App">Fashion Project Management App</a></h3>
-      <p align="left">This Fashion Project Management App is a full-stack web application designed to help fashion companies track and manage client projects efficiently. Built with React (Vite) for the frontend and Node.js for the backend, it uses Redux Toolkit (RTK) and RTK Query for streamlined state management and API interactions. The app allows company users to register, track, and manage client projects, ensuring smooth collaboration and workflow automation.</p>
-    </td>
-  </tr>
-</table>
-
----
 
 
-## 📊 My GitHub Contributions
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-start; gap: 15px; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=teslimakintunde&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teslimakintunde&theme=radical" alt="GitHub Streak"/>
-</div>
+

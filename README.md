@@ -11,7 +11,7 @@
  I am a <b>Data Analyst</b> with <b>7 years of experience</b> turning complex data into clear, actionable insights — and currently expanding into <b>Data Engineering</b>. My journey spans roles as a Business Analyst at Quarzard Global Limited and a Data Analyst in Emergency Communication, where I specialized in driving data-informed decisions that improve operations and business outcomes. I work across the full analytics stack — from data cleaning and transformation to interactive dashboards and predictive modelling — using <b>Excel</b>, <b>Power BI</b>, <b>SQL</b>, <b>Python</b>, and modern data platforms. Now deepening my skills in data pipelines, transformation frameworks, and automation to build reliable, scalable data systems. Let's collaborate to turn your data into decisions that move the needle.
 </p>
 
-## 🛠️ My Skills
+##  My Skills
 
 ### Data Analysis & Visualization
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -36,14 +36,14 @@
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 ![IBM Data Analyst](https://img.shields.io/badge/IBM-Data_Analyst-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![IBM Data Science](https://img.shields.io/badge/IBM-Data_Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
 
-## 🚀 Currently Learning
+## Currently Learning
 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -53,7 +53,7 @@
 
 
 
-## 📊 Selected Projects
+##  Selected Projects
 
 ### E-Commerce Sales & Revenue Performance
 

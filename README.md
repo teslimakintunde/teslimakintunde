@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://cdn.prod.website-files.com/6873cdac2c17c63286b32b0b/68b570b52bc4e8eff5eb3635_full%20stack%20developer%2C%20Frontend%20developer.png" alt="Profile Banner" width="100%"/>
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/6ad4e9c009c44abef3d3c8de_Screenshot%20(27).png" alt="Profile Banner" width="100%"/>
 </p>
 
 <div align="left" style="background: linear-gradient(135deg, #0077B5, #00A1D6); padding: 15px; border-radius: 10px; display: flex; flex-direction: column; align-items: center; margin: 10px 0;">

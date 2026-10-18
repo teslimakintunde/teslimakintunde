@@ -231,7 +231,7 @@ I'm currently open to opportunities in **Data Analyst**, **Business Analyst**, *
 
 ---
 
-Thank you for visiting my portfolio. Feel free to explore the projects above.
+Thank you for visiting my portfolio. Feel free to explore more projects in my repository.
 
 
 

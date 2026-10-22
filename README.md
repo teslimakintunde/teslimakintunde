@@ -8,7 +8,7 @@
   </a>  
 </div>
 <p align="left">
- I am a <b>Data Analyst</b> with <b>7 years of experience</b> turning complex data into clear, actionable insights — and currently expanding into <b>Data Engineering</b>. My journey spans roles as a Business Analyst at Quarzard Global Limited and a Data Analyst in Emergency Communication, where I specialized in driving data-informed decisions that improve operations and business outcomes. I work across the full analytics stack — from data cleaning and transformation to interactive dashboards and predictive modelling — using <b>Excel</b>, <b>Power BI</b>, <b>SQL</b>, <b>Python</b>, and modern data platforms. Now deepening my skills in data pipelines, transformation frameworks, and automation to build reliable, scalable data systems. Let's collaborate to turn your data into decisions that move the needle.
+ I am a <b>Data Analyst</b> with <b>7 years of experience</b> turning complex data into clear, actionable insights — and currently expanding into <b>Data Engineering</b>. My journey spans roles as a Business Analyst at Quarzard Global Limited and a Data Analyst in Emergency Communication Center, where I specialized in driving data-informed decisions that improve operations and business outcomes. I work across the full analytics stack — from data cleaning and transformation to interactive dashboards and predictive modelling — using <b>Excel</b>, <b>Power BI</b>, <b>SQL</b>, <b>Python</b>, and modern data platforms. Now deepening my skills in data pipelines, transformation frameworks, and automation to build reliable, scalable data systems. Let's collaborate to turn your data into decisions that move the needle.
 </p>
 
 ##  My Skills
